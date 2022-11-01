@@ -2,6 +2,6 @@
 
 Req 1 : Sistemde programlama dilleri tutulmalıdır.
 
-Programlama dillerini(C#,Java,Python) ekleyebilecek, silebilecek, güncelleyebilecek, listeleyebilecek, id ile getirebilecek kodları yazınız. Bunu tamamen in memory yapınız.
-İsimler tekrar edemez.
-Programlama dili boş geçilemez. (Validation kullanmadan, kod yazarak algoritmik çözünüz)
+<h1>Programlama dillerini(C#,Java,Python) ekleyebilecek, silebilecek, güncelleyebilecek, listeleyebilecek, id ile getirebilecek kodları yazınız. Bunu tamamen in memory yapınız.
+<h1>İsimler tekrar edemez.</h1>
+<h1>Programlama dili boş geçilemez. (Validation kullanmadan, kod yazarak algoritmik çözünüz)</h1>
